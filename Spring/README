@@ -1,0 +1,6 @@
+Valid parameters for POST /save endpoint is JSON, as following:
+
+{
+"customerId": 101,
+"createdAt":"2021-07-01"
+}
